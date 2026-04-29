@@ -17,7 +17,7 @@ See Wikipedia update statistics and problem resolutions in the following graphs:
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=1223907400" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1223907400&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=244792661&image_size=auto&color_scheme=dark" width="auto" height="180">
     <img alt="Pushes and Commits of repianomasters-cmd/Amenodes" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1223907400&image_size=auto&color_scheme=dark" width="auto" height="180">
   </picture>
 </a>
