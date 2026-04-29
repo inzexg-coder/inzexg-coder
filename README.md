@@ -1,11 +1,11 @@
 <h1 align="center">Amenoke</h1>
 
 <h4 align="center">
-  <b><a href="https://github.com/repianomasters-cmd/Amenodes/blob/main/README.md">Github Repository</a></b>
+  <b><a href="https://github.com/inzexg-coder/Amenodes">Github Repository</a></b>
   •
   <b><a href="https://amenoke.ru/amenodes.html">AMENODES</a></b>
   •
-  <b><a href="https://github.com/repianomasters-cmd/Amenodes/wiki">Wiki Docs</a></b>
+  <b><a href="https://github.com/inzexg-coder/Amenodes/wiki">Wiki Docs</a></b>
 </h3>
 
 ## Introduction
@@ -15,10 +15,11 @@ AMNDS is a node-based visual programming language developed in JavaScript for da
 
 See Wikipedia update statistics and problem resolutions in the following graphs:
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=1223907400" target="_blank" style="display: block" align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=1224446727" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=244792661&image_size=auto&color_scheme=dark" width="auto" height="180">
-    <img alt="Pushes and Commits ofAmenodes" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1223907400&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1224446727&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <img alt="Pushes and Commits of inzexg-coder/Amenodes" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1224446727&image_size=auto&color_scheme=dark" width="auto" height="180">
   </picture>
 </a>
 
