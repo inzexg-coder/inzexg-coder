@@ -6,6 +6,8 @@
   <b><a href="https://amenoke.ru/amenodes.html">AMENODES</a></b>
   •
   <b><a href="https://github.com/inzexg-coder/Amenodes/wiki">Wiki Docs</a></b>
+  •
+  <b><a href="https://github.com/inzexg-coder/visual-studio-fixing">VS fixing</a></b>
 </h3>
 
 ## Introduction
