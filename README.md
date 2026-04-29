@@ -18,14 +18,14 @@ See Wikipedia update statistics and problem resolutions in the following graphs:
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=1223907400" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=244792661&image_size=auto&color_scheme=dark" width="auto" height="180">
-    <img alt="Pushes and Commits of repianomasters-cmd/Amenodes" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1223907400&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <img alt="Pushes and Commits ofAmenodes" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1223907400&image_size=auto&color_scheme=dark" width="auto" height="180">
   </picture>
 </a>
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=280004226&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=280004226&period=all_times&image_size=auto&color_scheme=dark" width="auto" height="180">
-    <img alt="Contribution Time Distribution of @repianomasters-cmd" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=280004226&period=all_times&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=244792661&period=all_times&image_size=auto&color_scheme=dark" width="auto" height="180">
+    <img alt="Contribution Time Distribution of Amenoke" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=244792661&period=all_times&image_size=auto&color_scheme=dark" width="auto" height="180">
   </picture>
 </a>
 
@@ -33,10 +33,10 @@ See Wikipedia update statistics and problem resolutions in the following graphs:
 
 My latest actions on the GitHub page, somehow related to the project or others:
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=280004226" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=244792661" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=280004226&image_size=auto&color_scheme=dark" width="890" height="auto">
-    <img alt="Dashboard stats of @repianomasters-cmd" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=280004226&image_size=auto&color_scheme=dark" width="890" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244792661&image_size=auto&color_scheme=dark" width="890" height="auto">
+    <img alt="Dashboard stats of @inzexg-coder" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244792661&image_size=auto&color_scheme=dark" width="890" height="auto">
   </picture>
 </a>
 
