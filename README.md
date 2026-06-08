@@ -8,16 +8,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ameni-Agent-4CAF50?labelColor=222">
   <img src="https://img.shields.io/badge/domain-node_based_visual_programming-2196F3?labelColor=222">
-  <img src="https://img.shields.io/badge/domain-vs_build_repair-5C2D91?labelColor=222">
+  <img src="https://img.shields.io/badge/domain-vs_kernel_fix-5C2D91?labelColor=222">
   <img src="https://img.shields.io/badge/domain-telegram_analytics-26A5E4?labelColor=222">
 </p>
 
 <p align="center">
   <b><a href="https://github.com/inzexg-coder/Amenodes">Amenodes</a></b>
   &middot;
-  <b><a href="https://github.com/inzexg-coder/visual-studio-fixing">VS Fixing</a></b>
+  <b><a href="https://github.com/inzexg-coder/ameni-vs-kernel">VS Kernel</a></b>
   &middot;
-  <b><a href="https://github.com/inzexg-coder/tg-parser">TG Parser</a></b>
+  <b><a href="https://github.com/inzexg-coder/ameni-tg-parser">Ameni TG Parser</a></b>
 </p>
 
 <br>
@@ -47,7 +47,7 @@ Node-based visual programming language implemented in JavaScript for data analys
   </picture>
 </a>
 
-### [Visual Studio Fixing](https://github.com/inzexg-coder/visual-studio-fixing)
+### [Ameni VS Kernel](https://github.com/inzexg-coder/ameni-vs-kernel)
 
 Configuration archive and step-by-step guide for resolving Microsoft Visual Studio build-system failures. Covers Windows SDK detection, vcxproj normalization, property sheet injection, and per-version VS configuration snapshots (2017, 2022, 2025). Each resolution step includes diagnostic commands, expected outputs, and error-handling procedures.
 
@@ -57,7 +57,7 @@ Configuration archive and step-by-step guide for resolving Microsoft Visual Stud
 - PowerShell-based project repair
 - Version-specific manifests (.vsconfig)
 
-### [TG Parser](https://github.com/inzexg-coder/tg-parser)
+### [Ameni TG Parser](https://github.com/inzexg-coder/ameni-tg-parser)
 
 Telegram chat export analyzer with dual web and CLI interfaces. Processes result.json exports from Telegram Desktop and produces statistical reports including message frequency, participant activity, response-time distribution, and media-type breakdown. The web version renders interactive charts; the CLI version outputs formatted tables and histograms.
 
