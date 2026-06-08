@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/domain-node_based_visual_programming-2196F3?labelColor=222">
   <img src="https://img.shields.io/badge/domain-vs_kernel_fix-5C2D91?labelColor=222">
   <img src="https://img.shields.io/badge/domain-telegram_analytics-26A5E4?labelColor=222">
+  <img src="https://img.shields.io/badge/arch_linux-AUR_support-1793D1?logo=archlinux&labelColor=222">
 </p>
 
 <p align="center">
@@ -52,16 +53,16 @@ Node-based visual programming language implemented in JavaScript for data analys
 Configuration archive and step-by-step guide for resolving Microsoft Visual Studio build-system failures. Covers Windows SDK detection, vcxproj normalization, property sheet injection, and per-version VS configuration snapshots (2017, 2022, 2025). Each resolution step includes diagnostic commands, expected outputs, and error-handling procedures.
 
 **Key capabilities:**
-- Automated environment diagnostics
+- Cross-platform diagnostics (Windows + Linux)
 - Reference configuration comparison
-- PowerShell-based project repair
-- Version-specific manifests (.vsconfig)
+- PowerShell and bash CLI agent
+- Arch Linux PKGBUILD / AUR support
 
 ### [Ameni TG Parser](https://github.com/inzexg-coder/ameni-tg-parser)
 
 Telegram chat export analyzer with dual web and CLI interfaces. Processes result.json exports from Telegram Desktop and produces statistical reports including message frequency, participant activity, response-time distribution, and media-type breakdown. The web version renders interactive charts; the CLI version outputs formatted tables and histograms.
 
-**CLI commands:**
+**CLI commands (Arch Linux: `sudo pacman -S nodejs npm`):**
 - `ameni tg stats` — full chat statistics
 - `ameni tg top` — top senders with histogram
 - `ameni tg activity` — hourly and weekday distribution
